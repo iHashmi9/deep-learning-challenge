@@ -1,0 +1,3 @@
+Majority of the options included in the neural network model such as different activation models, dropout rates, 'Batch Normalization' and batch size for the optimizer including the optimizer's learning rate were picked up as suggestions from chatgpt. the actual values were self-inputted and trial and error experimentation including the frequency of tests run were self-arbitrary.
+Majority of the base code derived from suggestions on Bing Co-Pilot and chatgpt.
+ln5 suggestion on both standard and optimization file derived from Bing Co-Pilot and chatgpt.
